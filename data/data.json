@@ -7,7 +7,7 @@
             "url": "https://www.nature.com/articles/s41586-021-04369-3"
         },
         "doi": "10.1038/s41586-021-04369-3",
-        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/35165441/",
+        "pubmed": "35165441",
         "website": {
             "text": "Human_BBB - Shiny App",
             "url": "https://twc-stanford.shinyapps.io/human_bbb"
@@ -22,7 +22,7 @@
             "url": "https://www.nature.com/articles/s41586-022-04461-2"
         },
         "doi": "10.1038/s41586-022-04461-2",
-        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/35236985/",
+        "pubmed": "35236985",
         "website": {
             "text": "Parabiosis Data Explorer",
             "url": "https://ccb-web.cs.uni-saarland.de/parabiosis/"
@@ -37,7 +37,7 @@
             "url": "https://www.pnas.org/doi/10.1073/pnas.2121609119?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub++0pubmed"
         },
         "doi": "10.1073/pnas.2121609119",
-        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/35259016/",
+        "pubmed": "35259016",
         "date": "2022-03-08"
     },
     {
@@ -48,7 +48,7 @@
             "url": "https://www.nature.com/articles/s43587-022-00196-x"
         },
         "doi": "10.1038/s43587-022-00196-x",
-        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/36741774/",
+        "pubmed": "36741774",
         "date": "2022-04-11"
     },
     {
@@ -59,7 +59,7 @@
             "url": "https://www.nature.com/articles/s41586-022-04722-0"
         },
         "doi": "10.1038/s41586-022-04722-0",
-        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/35545674/",
+        "pubmed": "35545674",
         "date": "2022-05-11"
     }
 ]
