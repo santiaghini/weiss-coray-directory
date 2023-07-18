@@ -1,0 +1,65 @@
+[
+    {
+        "title": "A human brain vascular atlas reveals diverse mediators of Alzheimer's risk",
+        "abstract": "The human brain vasculature is of great medical importance: its dysfunction causes disability and death, and the specialized structure it forms-the blood-brain barrier-impedes the treatment of nearly all brain disorders. Yet so far, we have no molecular map of the human brain vasculature. Here we develop vessel isolation and nuclei extraction for sequencing (VINE-seq) to profile the major vascular and perivascular cell types of the human brain through 143,793 single-nucleus transcriptomes from 25 hippocampus and cortex samples of 9 individuals with Alzheimer's disease and 8 individuals with no cognitive impairment. We identify brain-region- and species-enriched genes and pathways. We reveal molecular principles of human arteriovenous organization, recapitulating a gradual endothelial and punctuated mural cell continuum. We discover two subtypes of human pericytes, marked by solute transport and extracellular matrix (ECM) organization; and define perivascular versus meningeal fibroblast specialization. In Alzheimer's disease, we observe selective vulnerability of ECM-maintaining pericytes and gene expression patterns that implicate dysregulated blood flow. With an expanded survey of brain cell types, we find that 30 of the top 45 genes that have been linked to Alzheimer's disease risk by genome-wide association studies (GWASs) are expressed in the human brain vasculature, and we confirm this by immunostaining. Vascular GWAS genes map to endothelial protein transport, adaptive immune and ECM pathways. Many are microglia-specific in mice, suggesting a partial evolutionary transfer of Alzheimer's disease risk. Our work uncovers the molecular basis of the human brain vasculature, which will inform our understanding of overall brain health, disease and therapy.",
+        "publication": {
+            "text": "Yang et al. 2022. Nature.",
+            "url": "https://www.nature.com/articles/s41586-021-04369-3"
+        },
+        "doi": "10.1038/s41586-021-04369-3",
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/35165441/",
+        "website": {
+            "text": "Human_BBB - Shiny App",
+            "url": "https://twc-stanford.shinyapps.io/human_bbb"
+        },
+        "date": "2022-02-14"
+    },
+    {
+        "title": "Molecular hallmarks of heterochronic parabiosis at single-cell resolution",
+        "abstract": "The ability to slow or reverse biological ageing would have major implications for mitigating disease risk and maintaining vitality. Although an increasing number of interventions show promise for rejuvenation2, their effectiveness on disparate cell types across the body and the molecular pathways susceptible to rejuvenation remain largely unexplored. Here we performed single-cell RNA sequencing on 20 organs to reveal cell-type-specific responses to young and aged blood in heterochronic parabiosis. Adipose mesenchymal stromal cells, haematopoietic stem cells and hepatocytes are among those cell types that are especially responsive. On the pathway level, young blood invokes new gene sets in addition to reversing established ageing patterns, with the global rescue of genes encoding electron transport chain subunits pinpointing a prominent role of mitochondrial function in parabiosis-mediated rejuvenation. We observed an almost universal loss of gene expression with age that is largely mimicked by parabiosis: aged blood reduces global gene expression, and young blood restores it in select cell types. Together, these data lay the groundwork for a systemic understanding of the interplay between blood-borne factors and cellular integrity.",
+        "publication": {
+            "text": "Pálovics et al. 2022. Nature.",
+            "url": "https://www.nature.com/articles/s41586-022-04461-2"
+        },
+        "doi": "10.1038/s41586-022-04461-2",
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/35236985/",
+        "website": {
+            "text": "Parabiosis Data Explorer",
+            "url": "https://ccb-web.cs.uni-saarland.de/parabiosis/"
+        },
+        "date": "2022-03-02"
+    },
+    {
+        "title": "Small molecule C381 targets the lysosome to reduce inflammation and ameliorate disease in models of neurodegeneration",
+        "abstract": "Neurodegenerative diseases are poorly understood and difficult to treat. One common hallmark is lysosomal dysfunction leading to the accumulation of aggregates and other undegradable materials, which cause damage to brain resident cells. Lysosomes are acidic organelles responsible for breaking down biomolecules and recycling their constitutive parts. In this work, we find that the antiinflammatory and neuroprotective compound, discovered via a phenotypic screen, imparts its beneficial effects by targeting the lysosome and restoring its function. This is established using a genome-wide CRISPRi target identification screen and then confirmed using a variety of lysosome-targeted studies. The resulting small molecule from this study represents a potential treatment for neurodegenerative diseases as well as a research tool for the study of lysosomes in disease.",
+        "publication": {
+            "text": "Vestr et al. 2022. PNAS.",
+            "url": "https://www.pnas.org/doi/10.1073/pnas.2121609119?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub++0pubmed"
+        },
+        "doi": "10.1073/pnas.2121609119",
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/35259016/",
+        "date": "2022-03-08"
+    },
+    {
+        "title": "Limited Proteolysis-Mass Spectrometry Reveals Aging-Associated Changes in Cerebrospinal Fluid Protein Abundances and Structures",
+        "abstract": "Cerebrospinal fluid (CSF) proteins and their structures have been implicated repeatedly in aging and neurodegenerative diseases. Limited proteolysis-mass spectrometry (LiP-MS) is a method that enables proteome-wide screening for changes in both protein abundance and structure. To screen for novel aging-associated changes in the CSF proteome, we performed LiP-MS on CSF from young and old mice with a modified analysis pipeline. We found 38 protein groups change in abundance with aging, most dominantly immunoglobulins of the IgM subclass. We discovered six high-confidence candidates that appeared to change in structure with aging, of which Kng1, Itih2, Lp-PLA2, and 14-3-3 proteins have binding partners or proteoforms known previously to change in the brain with Alzheimer's disease. Intriguingly, using orthogonal validation by Western blot we found the LiP-MS hit Cd5l forms a covalent complex with IgM in mouse and human CSF whose abundance increases with aging. SOMAmer probe signals for all six LiP-MS hits in human CSF, especially 14-3-3 proteins, significantly associate with several clinical features relevant to cognitive function and neurodegeneration. Together, our findings show that LiP-MS can uncover age-related structural changes in CSF with relevance to neurodegeneration.",
+        "publication": {
+            "text": "Shuken et al. 2022. Nature Aging.",
+            "url": "https://www.nature.com/articles/s43587-022-00196-x"
+        },
+        "doi": "10.1038/s43587-022-00196-x",
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/36741774/",
+        "date": "2022-04-11"
+    },
+    {
+        "title": "Young CSF restores oligodendrogenesis and memory in aged mice via Fgf17",
+        "abstract": "Recent understanding of how the systemic environment shapes the brain throughout life has led to numerous intervention strategies to slow brain ageing1-3. Cerebrospinal fluid (CSF) makes up the immediate environment of brain cells, providing them with nourishing compounds4,5. We discovered that infusing young CSF directly into aged brains improves memory function. Unbiased transcriptome analysis of the hippocampus identified oligodendrocytes to be most responsive to this rejuvenated CSF environment. We further showed that young CSF boosts oligodendrocyte progenitor cell (OPC) proliferation and differentiation in the aged hippocampus and in primary OPC cultures. Using SLAMseq to metabolically label nascent mRNA, we identified serum response factor (SRF), a transcription factor that drives actin cytoskeleton rearrangement, as a mediator of OPC proliferation following exposure to young CSF. With age, SRF expression decreases in hippocampal OPCs, and the pathway is induced by acute injection with young CSF. We screened for potential SRF activators in CSF and found that fibroblast growth factor 17 (Fgf17) infusion is sufficient to induce OPC proliferation and long-term memory consolidation in aged mice while Fgf17 blockade impairs cognition in young mice. These findings demonstrate the rejuvenating power of young CSF and identify Fgf17 as a key target to restore oligodendrocyte function in the ageing brain.",
+        "publication": {
+            "text": "Iram et al. 2022. Nature.",
+            "url": "https://www.nature.com/articles/s41586-022-04722-0"
+        },
+        "doi": "10.1038/s41586-022-04722-0",
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/35545674/",
+        "date": "2022-05-11"
+    }
+]
