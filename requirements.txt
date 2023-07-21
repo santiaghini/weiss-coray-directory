@@ -1,0 +1,30 @@
+anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1688651106312/work/dist
+appdirs @ file:///home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/work
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1685243452975/work
+click @ file:///home/conda/feedstock_root/build_artifacts/click_1689279387612/work
+contextvars==2.4
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1688381075899/work
+h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1664132893548/work
+htmltools==0.2.1
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+immutables==0.19
+linkify-it-py @ file:///home/conda/feedstock_root/build_artifacts/linkify-it-py_1651923627081/work
+markdown-it-py @ file:///home/conda/feedstock_root/build_artifacts/markdown-it-py_1686175045316/work
+mdit-py-plugins==0.4.0
+mdurl @ file:///home/conda/feedstock_root/build_artifacts/mdurl_1639515908913/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
+PyJWT==2.8.0
+python-multipart @ file:///home/conda/feedstock_root/build_artifacts/python-multipart_1679167423335/work
+rsconnect-python==1.19.0
+semver==2.13.0
+shiny==0.4.0
+shinyswatch==0.2.4
+six==1.16.0
+sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1662051266223/work
+starlette @ file:///home/conda/feedstock_root/build_artifacts/starlette-recipe_1689447117766/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
+uc-micro-py @ file:///home/conda/feedstock_root/build_artifacts/uc-micro-py_1608058642472/work
+uvicorn @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/croot-5huqwf0h/uvicorn_1641600733036/work
+watchfiles==0.19.0
+websockets @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c5bbxxm8rk/croot/websockets_1678966795781/work
+XStatic-bootswatch==3.3.7.0
