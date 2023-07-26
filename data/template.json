@@ -1,0 +1,32 @@
+[
+    {
+        "title": "",
+        "abstract": "",
+        "publication": {
+            "text": "Yang et al. 2022. Nature.",
+            "url": "https://www.nature.com/articles/s41586-021-04369-3"
+        },
+        "doi": "10.1038/s41586-021-04369-3",
+        "pubmed": "35165441",
+        "website": {
+            "text": "Human_BBB - Shiny App",
+            "url": "https://twc-stanford.shinyapps.io/human_bbb"
+        },
+        "date": "2022-02-14"
+    },
+    {
+        "title": "",
+        "abstract": "",
+        "publication": {
+            "text": "",
+            "url": ""
+        },
+        "doi": "",
+        "pubmed": "",
+        "website": {
+            "text": "",
+            "url": ""
+        },
+        "date": ""
+    }
+]

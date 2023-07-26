@@ -61,5 +61,127 @@
         "doi": "10.1038/s41586-022-04722-0",
         "pubmed": "35545674",
         "date": "2022-05-11"
+    },
+    {
+        "title": "Exercise plasma boosts memory and dampens brain inflammation via clusterin",
+        "abstract": "Physical exercise is generally beneficial to all aspects of human and animal health, slowing cognitive ageing and neurodegeneration1. The cognitive benefits of physical exercise are tied to an increased plasticity and reduced inflammation within the hippocampus2-4, yet little is known about the factors and mechanisms that mediate these effects. Here we show that 'runner plasma', collected from voluntarily running mice and infused into sedentary mice, reduces baseline neuroinflammatory gene expression and experimentally induced brain inflammation. Plasma proteomic analysis revealed a concerted increase in complement cascade inhibitors including clusterin (CLU). Intravenously injected CLU binds to brain endothelial cells and reduces neuroinflammatory gene expression in a mouse model of acute brain inflammation and a mouse model of Alzheimer's disease. Patients with cognitive impairment who participated in structured exercise for 6 months had higher plasma levels of CLU. These findings demonstrate the existence of anti-inflammatory exercise factors that are transferrable, target the cerebrovasculature and benefit the brain, and are present in humans who engage in exercise.",
+        "publication": {
+            "text": "De Miguel et al. 2022. Nature.",
+            "url": "https://www.nature.com/articles/s41586-021-04183-x"
+        },
+        "doi": "10.1038/s41586-021-04183-x",
+        "pubmed": "34880498",
+        "date": "2021-12-08"
+    },
+    {
+        "title": "The CD22-IGF2R interaction is a therapeutic target for microglial lysosome dysfunction in Niemann-Pick type C",
+        "abstract": "Lysosome dysfunction is a shared feature of rare lysosomal storage diseases and common age-related neurodegenerative diseases. Microglia, the brain-resident macrophages, are particularly vulnerable to lysosome dysfunction because of the phagocytic stress of clearing dying neurons, myelin, and debris. CD22 is a negative regulator of microglial homeostasis in the aging mouse brain, and soluble CD22 (sCD22) is increased in the cerebrospinal fluid of patients with Niemann-Pick type C disease (NPC). However, the role of CD22 in the human brain remains unknown. In contrast to previous findings in mice, here, we show that CD22 is expressed by oligodendrocytes in the human brain and binds to sialic acid-dependent ligands on microglia. Using unbiased genetic and proteomic screens, we identify insulin-like growth factor 2 receptor (IGF2R) as the binding partner of sCD22 on human myeloid cells. Targeted truncation of IGF2R revealed that sCD22 docks near critical mannose 6-phosphate-binding domains, where it disrupts lysosomal protein trafficking. Interfering with the sCD22-IGF2R interaction using CD22 blocking antibodies ameliorated lysosome dysfunction in human NPC1 mutant induced pluripotent stem cell-derived microglia-like cells without harming oligodendrocytes in vitro. These findings reinforce the differences between mouse and human microglia and provide a candidate microglia-directed immunotherapeutic to treat NPC.",
+        "publication": {
+            "text": "Pluvinage et al. 2021. Sci Transl Med.",
+            "url": "https://www.science.org/doi/10.1126/scitranslmed.abg2919"
+        },
+        "doi": "10.1126/scitranslmed.abg2919",
+        "pubmed": "34851695",
+        "date": "2021-12-01"
+    },
+    {
+        "title": "CD4+ T cells contribute to neurodegeneration in Lewy body dementia",
+        "abstract": "Recent studies indicate that the adaptive immune system plays a role in Lewy body dementia (LBD). However, the mechanism regulating T cell brain homing in LBD is unknown. Here, we observed T cells adjacent to Lewy bodies and dopaminergic neurons in postmortem LBD brains. Single-cell RNA sequencing of cerebrospinal fluid (CSF) identified up-regulated expression of C-X-C motif chemokine receptor 4 (CXCR4) in CD4+ T cells in LBD. CSF protein levels of the CXCR4 ligand, C-X-C motif chemokine ligand 12 (CXCL12), were associated with neuroaxonal damage in LBD. Furthermore, we observed clonal expansion and up-regulated interleukin 17A expression by CD4+ T cells stimulated with a phosphorylated α-synuclein epitope. Thus, CXCR4-CXCL12 signaling may represent a mechanistic target for inhibiting pathological interleukin-17-producing T cell trafficking in LBD.",
+        "publication": {
+            "text": "Gate et al. 2021. Science.",
+            "url": "https://www.science.org/doi/10.1126/science.abf7266"
+        },
+        "doi": "10.1126/science.abf7266",
+        "pubmed": "34648304",
+        "date": "2021-10-14"
+    },
+    {
+        "title": "Dysregulation of brain and choroid plexus cell types in severe COVID-19",
+        "abstract": "Although SARS-CoV-2 primarily targets the respiratory system, patients with and survivors of COVID-19 can suffer neurological symptoms1-3. However, an unbiased understanding of the cellular and molecular processes that are affected in the brains of patients with COVID-19 is missing. Here we profile 65,309 single-nucleus transcriptomes from 30 frontal cortex and choroid plexus samples across 14 control individuals (including 1 patient with terminal influenza) and 8 patients with COVID-19. Although our systematic analysis yields no molecular traces of SARS-CoV-2 in the brain, we observe broad cellular perturbations indicating that barrier cells of the choroid plexus sense and relay peripheral inflammation into the brain and show that peripheral T cells infiltrate the parenchyma. We discover microglia and astrocyte subpopulations associated with COVID-19 that share features with pathological cell states that have previously been reported in human neurodegenerative disease4-6. Synaptic signalling of upper-layer excitatory neurons-which are evolutionarily expanded in humans7 and linked to cognitive function8-is preferentially affected in COVID-19. Across cell types, perturbations associated with COVID-19 overlap with those found in chronic brain disorders and reside in genetic variants associated with cognition, schizophrenia and depression. Our findings and public dataset provide a molecular framework to understand current observations of COVID-19-related neurological disease, and any such disease that may emerge at a later date.",
+        "publication": {
+            "text": "Yang et al. 2021. Nature.",
+            "url": "https://www.nature.com/articles/s41586-021-03710-0"
+        },
+        "doi": "10.1038/s41586-021-03710-0",
+        "pubmed": "34153974",
+        "website": {
+            "text": "Single-cell analysis of the COVID-19 brain and choroid plexus",
+            "url": "https://twc-stanford.shinyapps.io/scrna_brain_covid19/"
+        },
+        "date": "2021-06-21"
+    },
+    {
+        "title": "CoolMPS for robust sequencing of single-nuclear RNAs captured by droplet-based method",
+        "abstract": "Massively-parallel single-cell and single-nucleus RNA sequencing (scRNA-seq, snRNA-seq) requires extensive sequencing to achieve proper per-cell coverage, making sequencing resources and availability of sequencers critical factors for conducting deep transcriptional profiling. CoolMPS is a novel sequencing-by-synthesis approach that relies on nucleotide labeling by re-usable antibodies, but whether it is applicable to snRNA-seq has not been tested. Here, we use a low-cost and off-the-shelf protocol to chemically convert libraries generated with the widely-used Chromium 10X technology to be sequenceable with CoolMPS technology. To assess the quality and performance of converted libraries sequenced with CoolMPS, we generated a snRNA-seq dataset from the hippocampus of young and old mice. Native libraries were sequenced on an Illumina Novaseq and libraries that were converted to be compatible with CoolMPS were sequenced on a DNBSEQ-400RS. CoolMPS-derived data faithfully replicated key characteristics of the native library dataset, including correct estimation of ambient RNA-contamination, detection of captured cells, cell clustering results, spatial marker gene expression, inter- and intra-replicate differences and gene expression changes during aging. In conclusion, our results show that CoolMPS provides a viable alternative to standard sequencing of RNA from droplet-based libraries.",
+        "publication": {
+            "text": "Nucleic Acids Res.",
+            "url": "https://academic.oup.com/nar/article/49/2/e11/6017352"
+        },
+        "doi": "10.1093/nar/gkaa1127",
+        "pubmed": "33264392",
+        "date": "2020-12-02"
+    },
+    {
+        "title": "Ageing hallmarks exhibit organ-specific temporal signatures",
+        "abstract": "Ageing is the single greatest cause of disease and death worldwide, and understanding the associated processes could vastly improve quality of life. Although major categories of ageing damage have been identified—such as altered intercellular communication, loss of proteostasis and eroded mitochondrial function1—these deleterious processes interact with extraordinary complexity within and between organs, and a comprehensive, whole-organism analysis of ageing dynamics has been lacking. Here we performed bulk RNA sequencing of 17 organs and plasma proteomics at 10 ages across the lifespan of Mus musculus, and integrated these findings with data from the accompanying Tabula Muris Senis2—or 'Mouse Ageing Cell Atlas'—which follows on from the original Tabula Muris3. We reveal linear and nonlinear shifts in gene expression during ageing, with the associated genes clustered in consistent trajectory groups with coherent biological functions—including extracellular matrix regulation, unfolded protein binding, mitochondrial function, and inflammatory and immune response. Notably, these gene sets show similar expression across tissues, differing only in the amplitude and the age of onset of expression. Widespread activation of immune cells is especially pronounced, and is first detectable in white adipose depots during middle age. Single-cell RNA sequencing confirms the accumulation of T cells and B cells in adipose tissue—including plasma cells that express immunoglobulin J—which also accrue concurrently across diverse organs. Finally, we show how gene expression shifts in distinct tissues are highly correlated with corresponding protein levels in plasma, thus potentially contributing to the ageing of the systemic circulation. Together, these data demonstrate a similar yet asynchronous inter- and intra-organ progression of ageing, providing a foundation from which to track systemic sources of declining health at old age.",
+        "publication": {
+            "text": "Schaum et al. 2020. Nature.",
+            "url": "https://www.nature.com/articles/s41586-020-2499-y"
+        },
+        "doi": "10.1038/s41586-020-2499-y",
+        "pubmed": "32669715",
+        "website": {
+            "text": "Tabula Muris Senis",
+            "url": "https://twc-stanford.shinyapps.io/maca/"
+        },
+        "date": "2020-07-15"
+    },
+    {
+        "title": "Physiological blood-brain transport is impaired with age by a shift in transcytosis",
+        "abstract": "The vascular interface of the brain, known as the blood-brain barrier (BBB), is understood to maintain brain function in part via its low transcellular permeability1-3. Yet, recent studies have demonstrated that brain ageing is sensitive to circulatory proteins4,5. Thus, it is unclear whether permeability to individually injected exogenous tracers-as is standard in BBB studies-fully represents blood-to-brain transport. Here we label hundreds of proteins constituting the mouse blood plasma proteome, and upon their systemic administration, study the BBB with its physiological ligand. We find that plasma proteins readily permeate the healthy brain parenchyma, with transport maintained by BBB-specific transcriptional programmes. Unlike IgG antibody, plasma protein uptake diminishes in the aged brain, driven by an age-related shift in transport from ligand-specific receptor-mediated to non-specific caveolar transcytosis. This age-related shift occurs alongside a specific loss of pericyte coverage. Pharmacological inhibition of the age-upregulated phosphatase ALPL, a predicted negative regulator of transport, enhances brain uptake of therapeutically relevant transferrin, transferrin receptor antibody and plasma. These findings reveal the extent of physiological protein transcytosis to the healthy brain, a mechanism of widespread BBB dysfunction with age and a strategy for enhanced drug delivery.",
+        "publication": {
+            "text": "Yang et al. 2020. Nature.",
+            "url": "https://www.nature.com/articles/s41586-020-2453-z"
+        },
+        "doi": "10.1038/s41586-020-2453-z",
+        "pubmed": "32612231",
+        "date": "2020-07-01"
+    },
+    {
+        "title": "Lipid-droplet-accumulating microglia represent a dysfunctional and proinflammatory state in the aging brain",
+        "abstract": "Microglia become progressively activated and seemingly dysfunctional with age, and genetic studies have linked these cells to the pathogenesis of a growing number of neurodegenerative diseases. Here we report a striking buildup of lipid droplets in microglia with aging in mouse and human brains. These cells, which we call 'lipid-droplet-accumulating microglia' (LDAM), are defective in phagocytosis, produce high levels of reactive oxygen species and secrete proinflammatory cytokines. RNA-sequencing analysis of LDAM revealed a transcriptional profile driven by innate inflammation that is distinct from previously reported microglial states. An unbiased CRISPR-Cas9 screen identified genetic modifiers of lipid droplet formation; surprisingly, variants of several of these genes, including progranulin (GRN), are causes of autosomal-dominant forms of human neurodegenerative diseases. We therefore propose that LDAM contribute to age-related and genetic forms of neurodegeneration.",
+        "publication": {
+            "text": "Marschallinger et al. 2020. Nature.",
+            "url": "https://www.nature.com/articles/s41593-019-0566-1"
+        },
+        "doi": "10.1038/s41593-019-0566-1",
+        "pubmed": "31959936",
+        "date": "2020-01-20"
+    },
+    {
+        "title": "Clonally expanded CD8 T cells patrol the cerebrospinal fluid in Alzheimer's disease",
+        "abstract": "Alzheimer's disease is an incurable neurodegenerative disorder in which neuroinflammation has a critical function. However, little is known about the contribution of the adaptive immune response in Alzheimer's disease. Here, using integrated analyses of multiple cohorts, we identify peripheral and central adaptive immune changes in Alzheimer's disease. First, we performed mass cytometry of peripheral blood mononuclear cells and discovered an immune signature of Alzheimer's disease that consists of increased numbers of CD8+ T effector memory CD45RA+ (T_EMRA) cells. In a second cohort, we found that CD8+ T_EMRA cells were negatively associated with cognition. Furthermore, single-cell RNA sequencing revealed that T cell receptor (TCR) signalling was enhanced in these cells. Notably, by using several strategies of single-cell TCR sequencing in a third cohort, we discovered clonally expanded CD8+ T_EMRA cells in the cerebrospinal fluid of patients with Alzheimer's disease. Finally, we used machine learning, cloning and peptide screens to demonstrate the specificity of clonally expanded TCRs in the cerebrospinal fluid of patients with Alzheimer's disease to two separate Epstein-Barr virus antigens. These results reveal an adaptive immune response in the blood and cerebrospinal fluid in Alzheimer's disease and provide evidence of clonal, antigen-experienced T cells patrolling the intrathecal space of brains affected by age-related neurodegeneration.",
+        "publication": {
+            "text": "Gate et al. 2021. Nature.",
+            "url": "https://www.nature.com/articles/s41586-019-1895-7"
+        },
+        "doi": "10.1038/s41586-019-1895-7",
+        "pubmed": "31915375",
+        "date": "2020-01-08"
+    },
+    {
+        "title": "Undulating changes in human plasma proteome profiles across the lifespan",
+        "abstract": "Aging is a predominant risk factor for several chronic diseases that limit healthspan. Mechanisms of aging are thus increasingly recognized as potential therapeutic targets. Blood from young mice reverses aspects of aging and disease across multiple tissues, which supports a hypothesis that age-related molecular changes in blood could provide new insights into age-related disease biology. We measured 2,925 plasma proteins from 4,263 young adults to nonagenarians (18-95 years old) and developed a new bioinformatics approach that uncovered marked non-linear alterations in the human plasma proteome with age. Waves of changes in the proteome in the fourth, seventh and eighth decades of life reflected distinct biological pathways and revealed differential associations with the genome and proteome of age-related diseases and phenotypic traits. This new approach to the study of aging led to the identification of unexpected signatures and pathways that might offer potential targets for age-related diseases.",
+        "publication": {
+            "text": "Lehallier et al. 2019. Nat Med.",
+            "url": "https://www.nature.com/articles/s41591-019-0673-2"
+        },
+        "doi": "10.1038/s41591-019-0673-2",
+        "pubmed": "31806903",
+        "website": {
+            "text": "Aging Plasma Proteome",
+            "url": "https://twc-stanford.shinyapps.io/aging_plasma_proteome/"
+        },
+        "date": "2019-12-05"
     }
 ]
