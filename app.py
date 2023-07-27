@@ -70,7 +70,8 @@ def create_tabs():
 
 ### APP UI ###
 app_ui = ui.page_fluid(
-    # {"style": "height: 100vh;"},
+    # Following lines are attempt to make tabs scrollable, too hacky
+    # {"style": "height: 100vh; padding-top: 1em;"},
     # ui.tags.style(
     #     """
     #     .nowrap {
@@ -79,6 +80,7 @@ app_ui = ui.page_fluid(
     #         }
     #     """
     # ),
+    {"style": "padding-top: 1em;"},
     shinyswatch.theme.simplex(),
     ui.panel_title(TITLE),
     ui.br(),
